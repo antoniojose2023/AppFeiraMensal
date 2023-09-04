@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">AppFeiraMensal</string>
+
+    <string name="dialog_sim">Sim</string>
+    <string name="dialog_nao">Não</string>
+
+    <string name="dialog_title">Exclusão</string>
+
+    <string name="dialog_mensage">Deseja realmente excluir este item?</string>
+</resources>
